@@ -1,0 +1,93 @@
+.container1{
+    
+    background-color: rgb(141, 191, 248);
+    border : 2px solid black;
+    border-radius: 10px;
+    display: block;
+    margin-top: 100px;
+    margin-left:250px;
+    margin-right:250px;
+    padding:20px;
+    height:400px;
+
+
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+    margin:auto;
+}
+
+h3{
+    padding:5px;
+}
+
+#count{
+    display:block;
+    background-color: rgb(141, 191, 248);
+    border : 2px solid black;
+    border-radius: 10px;
+    width:500px;
+    height:400px;
+    font-weight:bold;
+    font-size:80px;
+    text-align:center;
+    position:relative;
+    left:100px;
+    top:134px;
+
+}
+
+#tstamps{
+    display:block;
+    background-color: rgb(141, 191, 248);
+    border : 2px solid black;
+    border-radius: 10px;
+    width:500px;
+    height:400px;
+    font-weight:bold;
+    font-size:82px;
+    text-align:center;
+    position:relative;
+    left:777px;
+    bottom:270px;
+
+}
+
+#counter{
+    font-size: 200px;
+}
+
+#update{
+    font-size: 40px;
+}
+
+
+.container2{
+  display:block;
+  height:500px;
+  background-color: rgb(141, 191, 248);
+    border : 2px solid black;
+    border-radius: 10px;
+    position:relative;   
+    left: 433px;
+    width: 600px;
+    top: 88px;
+    padding:20px;
+}
+.b{
+    position:relative;
+    left: 222px;
+    top: 113px;
+}
+
+.email{
+    position:relative;
+    top:32px;
+}
+
+.password{
+    position:relative;
+    top:81px;
+}
